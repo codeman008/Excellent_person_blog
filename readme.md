@@ -1,5 +1,5 @@
 ## **涵盖国内外计算机相关的大牛博客：**
-🧑‍🎨涉及：AI，全栈，c++，java，ios，前端
+🧑‍🎨涉及：[AI](https://github.com/codeman008/Excellent_person_blog/tree/main?tab=readme-ov-file#ai)，[全栈](https://github.com/codeman008/Excellent_person_blog/tree/main?tab=readme-ov-file#全栈)，[C++](https://github.com/codeman008/Excellent_person_blog/tree/main?tab=readme-ov-file#C++))，[java](https://github.com/codeman008/Excellent_person_blog/tree/main?tab=readme-ov-file#java)，[ios](https://github.com/codeman008/Excellent_person_blog/tree/main?tab=readme-ov-file#ios)，[前端](https://github.com/codeman008/Excellent_person_blog/tree/main?tab=readme-ov-file#前端)
 
 
 
@@ -57,7 +57,7 @@
 - [**Jeff Preshing**](http://preshing.com/)：Jeff Preshing，游戏行业开发10数年，C++功力自是深厚。博客每年更新十数篇，C++相关文章内容上进，图文并茂，深入浅出，是C++工程控的福音。
 - [**Joaquín**](http://bannalia.blogspot.com/)：Joaquín M López Muñoz，Boost.MultiIndex的实现者。博客长期更新，内容偏向算法，文章中有大量的公式推演和曲线图表。
 - [**Daniel Park**](http://functionalcpp.wordpress.com/)：Daniel Park，一个注重实干的C++狂热分子，正如其博客简介所说，不想接着讲那些被讲烂掉的函数式编程概念，要用C++来实现这些概念。
-- [**C**hris Kohlhoff**](http://blog.think-async.com/)：Chris Kohlhoff，Boost.asoi作者。博客更新到10年，内容主要涉及网络，asio相关。
+- [**Chris Kohlhoff**](http://blog.think-async.com/)：Chris Kohlhoff，Boost.asoi作者。博客更新到10年，内容主要涉及网络，asio相关。
 - [**MindHacks-思维改变生活**](http://mindhacks.cn/)：刘未鹏，现就职于微软，Imperfect C++, Exceptional C++ Style译者，曾与C++之父邮件往来，记录在另一个博客C++的卢浮宫上。博客内容偏重于学习方法，纯技术的C++文章少些。
 - [**酷壳**](http://coolshell.cn/)：陈皓，现就职于阿里巴巴。博客更新频繁，内容大量涉及C++及一切劝人上进的观点和方法，也有不少网友的高质量投稿。
 - [**陈硕的Blog**](http://blog.csdn.net/solstice/)：陈硕，国内少有的C++工程功底深厚，作风严谨且乐于分享的人。Muduo开源库的作者，有干货著作[**Linux多线程服务端编程:使用muduo C++网络库**](http://www.amazon.cn/gp/product/B00AYS2KL0/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00AYS2KL0&linkCode=as2&tag=bringmeluck-23)一本，译注若干。
@@ -111,7 +111,7 @@
 - [**玉令天下：**](https://yulingtianxia.com/)腾讯杨萧玉的博客，底层细节能深入到汇编的实现，令人惊叹。
 - [**Bestswifter：**](https://juejin.cn/user/1398234518402504/posts)张星宇的博客，《让 BAT 的 offer 不再难拿》介绍了他在大学时准备面试最后进入百度的经历，这篇文章也引起了不小的积极反响。
 - [**故胤道长：**](https://www.jianshu.com/u/8d5b91490ca5)顶级 iOS 开发者，曾就职于 Uber，现就职于美帝亚马逊。文风流畅，博客也会谈到不少中美编程文化的差异。
-- i[**OS程序猿：**](https://www.jianshu.com/u/96a14318a4de)CYLTabBarController 作者，博客也是篇篇经典。
+- [**iOS程序猿：**](https://www.jianshu.com/u/96a14318a4de)CYLTabBarController 作者，博客也是篇篇经典。
 - [**sunnyxx：**](https://blog.sunnyxx.com/)滴滴技术专家孙源的博客，对于 OC 语言特性有深入研究。不过整个 17 年没有更新博客。
 - [**瓜地：**](https://www.desgard.com/)冬瓜的博客，作为曾经 acm‘er 的素质与修养，博客总是能够深入底层。
 
