@@ -1,5 +1,6 @@
 ## **涵盖国内外计算机相关的大牛博客：**
-🧑‍🎨涉及：[AI](https://github.com/codeman008/Excellent_person_blog/tree/main?tab=readme-ov-file#ai)，[全栈](https://github.com/codeman008/Excellent_person_blog/tree/main?tab=readme-ov-file#全栈)，[C++](https://github.com/codeman008/Excellent_person_blog/tree/main?tab=readme-ov-file#C++))，[java](https://github.com/codeman008/Excellent_person_blog/tree/main?tab=readme-ov-file#java)，[ios](https://github.com/codeman008/Excellent_person_blog/tree/main?tab=readme-ov-file#ios)，[前端](https://github.com/codeman008/Excellent_person_blog/tree/main?tab=readme-ov-file#前端)
+🧑‍🎨涉及：[AI](https://github.com/codeman008/Excellent_person_blog/tree/main?tab=readme-ov-file#ai)，[全栈](https://github.com/codeman008/Excellent_person_blog/tree/main?tab=readme-ov-file#全栈)，[C++](https://github.com/codeman008/Excellent_person_blog/tree/main?tab=readme-ov-file#C++)，[java](https://github.com/codeman008/Excellent_person_blog/tree/main?tab=readme-ov-file#java)，[ios](https://github.com/codeman008/Excellent_person_blog/tree/main?tab=readme-ov-file#ios)，[前端](https://github.com/codeman008/Excellent_person_blog/tree/main?tab=readme-ov-file#前端)
+持续更新，欢迎推荐
 
 
 
