@@ -132,6 +132,6 @@
 - [**大漠：**](https://fedev.cn/)W3CPlus创始人，目前就职于淘宝。对HTML5、CSS3和CSS处理器等前端脚本语言有非常深入的认识和丰富的实践经验，尤其专注对CSS3和动画的研究。
 - [**芋头：**](https://html-js.com/card/29)就职于大搜车，前端乱炖站长，自命全栈工程师，擅长前端、NodeJS、java、ios。
 - [**张克军：**](https://github.com/kejun)豆瓣前端负责人，知名web技术布道者。
-- [**情封：**](https://github.com/f2er)前端De早读课站长。**
+- [**情封：**](https://github.com/f2er)前端De早读课站长。
 - [**JerryQu 的小站**](https://imququ.com/) ：先后工作于百度、360、字节跳动，十六年来负责过大型互联网业务的前端研发。
 
