@@ -1,7 +1,7 @@
 ## **涵盖国内外计算机相关的大牛博客：**
-🧑‍🎨涉及：[AI](https://github.com/codeman008/Excellent_person_blog/tree/main?tab=readme-ov-file#ai)，[全栈](https://github.com/codeman008/Excellent_person_blog/tree/main?tab=readme-ov-file#全栈)，[C++](https://github.com/codeman008/Excellent_person_blog/tree/main?tab=readme-ov-file#C++)，[java](https://github.com/codeman008/Excellent_person_blog/tree/main?tab=readme-ov-file#java)，[ios](https://github.com/codeman008/Excellent_person_blog/tree/main?tab=readme-ov-file#ios)，[前端](https://github.com/codeman008/Excellent_person_blog/tree/main?tab=readme-ov-file#前端)
-持续更新，欢迎推荐
+🧑‍🎨**涉及**：[AI](https://github.com/codeman008/Excellent_person_blog/tree/main?tab=readme-ov-file#ai)，[全栈](https://github.com/codeman008/Excellent_person_blog/tree/main?tab=readme-ov-file#全栈)，[C++](https://github.com/codeman008/Excellent_person_blog/tree/main?tab=readme-ov-file#C++)，[java](https://github.com/codeman008/Excellent_person_blog/tree/main?tab=readme-ov-file#java)，[ios](https://github.com/codeman008/Excellent_person_blog/tree/main?tab=readme-ov-file#ios)，[前端](https://github.com/codeman008/Excellent_person_blog/tree/main?tab=readme-ov-file#前端)
 
+## 持续更新，欢迎推荐
 
 
 ## **AI：**
@@ -31,7 +31,7 @@
 - [**田永强**](http://diveintonode.org/)：网名:朴灵,Node.js布道者
 - [**袁锋**](http://fengmk2.com/)：网民:suqian,python发烧友,CNode.org社区核心成员
 - [**Rob Pike**](https://plus.google.com/+RobPikeTheHuman/posts)：Google首席工程师、Go语言之父
-- [**风雪之隅**](http://www.laruence.com/)：Laruence的博客。博主为微博平台架构师，PHP大牛，网站有很多关于PHP的技术分享。
+- [**风雪之隅**](http://www.laruence.com/)：Laruence。博主为微博平台架构师，PHP大牛，网站有很多关于PHP的技术分享。
 - [**后端技术 by Tim Yang**](http://timyang.net/)：博主也是大牛一枚，关注架构及互联网技术，服务于微博技术团队，新浪（集团）技术委员会及微博技术委员会委员。
 - [**cenalulu's Tech Blog**](http://cenalulu.github.io/)：在大众点评网担任高级 MySQL DBA
 - [**廖雪峰：**](http://www.liaoxuefeng.com/)十年软件开发经验，业余产品经理，精通Java/Python/Ruby/Scheme/Objective C等。
@@ -84,37 +84,37 @@
 ## **iOS：**
 
 - [**李忠(limboy)**](http://limboy.me/):来自蘑菇街，RAC实践的国内先驱者
-- [**Bang的博客**](http://blog.cnbang.net/)：目前就职于Tutuso，JSPatch作者
-- [**王巍的博客：**](http://onevcat.com/)王巍目前在日本横滨任职于LINE。工作内容主要进行Unity3D开发和iOS开发。他维护Swift使用技巧分享网站Swifter.tips,他的陈列柜中已有多款应用，其中番茄工作法工具非常棒。
-- [**池建强的博客：**](http://macshuo.com/) 池建强，70后程序员，先后就职于洪恩软件、RocketSofeware和用友软件工程公司（后更名为瑞友科技），现任瑞友科技IT应用研究院副院长。
-- [**唐巧的博客：**](http://blog.devtang.com/) 唐巧是前网易有道员工，现在在猿题库创业中，负责iOS端的开发，首届国内Swift开发者大会的组织者。
-- [**许小帅的博客：**](http://imallen.com/)许小帅目前任职于腾讯，他还是iOS Feed站点的负责人。博客中对支付宝钱包插件分析的文章，引起了支付宝开发团队的反思，大家可以去感受一下。
-- [**蓝晨钰的博客：**](http://gracelancy.com/)晨钰就职于猿题库。
-- [**萧宸宇的博客：**](http://iiiyu.com/)萧宸宇目前任职于Sumi Interactive。他出生于西南一个边陲小镇，梦想着能走出家乡，看看祖国的大好河山。他拥有丰富的 iOS 开发经验，在他的博客中发表了许多 iOS 开发的文章。
-- [**陶丰平的博客：**](http://www.taofengping.com/)陶丰平目前任职于花瓣网，喜欢技术，喜欢音乐。他在软件开发领域有丰富的开发经验。
-- [**ibireme的博客：**](http://blog.ibireme.com/)YYKit作者 优酷土豆的iOS开发工程师
-- [**乔学士的博客：**](http://joeyio.com/)乔学士目前任职于创业公司拓词，他正在为成为“代码手工艺人”而努力，目前主要进行 iOS 开发。最近他做得非常精彩的一件事就是汇总了WWDC 2013 视频英文字幕下载，大家可以前往他的博客感受一下。
-- [**破船的博客：**](http://beyondvincent.com/)破船在移动领域摸爬滚打多年，经历了Symbian、Windows Mobile、Windows Phone和 iOS 等的洗礼。他希望能充分利用业余时间，努力做一名伪步道师。
-- [**李择一的博客**](http://cnblogs.com/biosli)：李择一目前任职于百度，他在移动开发领域积累了丰富的经验，特别是 iOS 开发关于OC中block的追究非常有深度
-- [**杨宇建的博客：**](https://www.cnblogs.com/easonoutlook) 杨宇建目前任职于载信软件。在他的博客中有许多 iOS 开发的文章，都是干货。
-- [**连栩的博客：**](https://lianxu.me/) 连栩目前工作在加拿大温哥华，运营着自己的公司 Beyondcow，专注 OSX、iOS 程序员同时也是用户体验，交互界面设计师。
-- [**sunny的博客：**](https://blog.sunnyxx.com/)曾就职于北京百度，对runtime有深刻讲解，值得大家学习
-- [**景总的博客：**](https://blog.csdn.net/justinjing0612)目前任职于天猫国际移动开发CTO，曾就职于平安科技项目经理，对IM和APP性能优化有深刻见解
-- [**田伟宇的博客**](https://casatwy.com/)：目前任职于天猫，全能人才。最近他的博客中出现了篇关于iOS应用架构详谈的文章，非常棒。
+- [**Bang**](http://blog.cnbang.net/)：目前就职于Tutuso，JSPatch作者
+- [**王巍：**](http://onevcat.com/)王巍目前在日本横滨任职于LINE。工作内容主要进行Unity3D开发和iOS开发。他维护Swift使用技巧分享网站Swifter.tips,他的陈列柜中已有多款应用，其中番茄工作法工具非常棒。
+- [**池建强：**](http://macshuo.com/) 池建强，70后程序员，先后就职于洪恩软件、RocketSofeware和用友软件工程公司（后更名为瑞友科技），现任瑞友科技IT应用研究院副院长。
+- [**唐巧：**](http://blog.devtang.com/) 唐巧是前网易有道员工，现在在猿题库创业中，负责iOS端的开发，首届国内Swift开发者大会的组织者。
+- [**许小帅：**](http://imallen.com/)许小帅目前任职于腾讯，他还是iOS Feed站点的负责人。博客中对支付宝钱包插件分析的文章，引起了支付宝开发团队的反思，大家可以去感受一下。
+- [**蓝晨钰：**](http://gracelancy.com/)晨钰就职于猿题库。
+- [**萧宸宇：**](http://iiiyu.com/)萧宸宇目前任职于Sumi Interactive。他出生于西南一个边陲小镇，梦想着能走出家乡，看看祖国的大好河山。他拥有丰富的 iOS 开发经验，在他中发表了许多 iOS 开发的文章。
+- [**陶丰平：**](http://www.taofengping.com/)陶丰平目前任职于花瓣网，喜欢技术，喜欢音乐。他在软件开发领域有丰富的开发经验。
+- [**ibireme：**](http://blog.ibireme.com/)YYKit作者 优酷土豆的iOS开发工程师
+- [**乔学士：**](http://joeyio.com/)乔学士目前任职于创业公司拓词，他正在为成为“代码手工艺人”而努力，目前主要进行 iOS 开发。最近他做得非常精彩的一件事就是汇总了WWDC 2013 视频英文字幕下载，大家可以前往他感受一下。
+- [**破船：**](http://beyondvincent.com/)破船在移动领域摸爬滚打多年，经历了Symbian、Windows Mobile、Windows Phone和 iOS 等的洗礼。他希望能充分利用业余时间，努力做一名伪步道师。
+- [**李择一**](http://cnblogs.com/biosli)：李择一目前任职于百度，他在移动开发领域积累了丰富的经验，特别是 iOS 开发关于OC中block的追究非常有深度
+- [**杨宇建：**](https://www.cnblogs.com/easonoutlook) 杨宇建目前任职于载信软件。在他中有许多 iOS 开发的文章，都是干货。
+- [**连栩：**](https://lianxu.me/) 连栩目前工作在加拿大温哥华，运营着自己的公司 Beyondcow，专注 OSX、iOS 程序员同时也是用户体验，交互界面设计师。
+- [**sunny：**](https://blog.sunnyxx.com/)曾就职于北京百度，对runtime有深刻讲解，值得大家学习
+- [**景总：**](https://blog.csdn.net/justinjing0612)目前任职于天猫国际移动开发CTO，曾就职于平安科技项目经理，对IM和APP性能优化有深刻见解
+- [**田伟宇**](https://casatwy.com/)：目前任职于天猫，全能人才。最近他中出现了篇关于iOS应用架构详谈的文章，非常棒。
 - [**ChenYilong的Github：**](https://github.com/ChenYilong)曾就职于leancloud，现就职于猿题库
-- [**pucker的博客：**](https://blog.csdn.net/pucker)他的博客关于利用Autolayout界面自动布局系列的文章写的不错
-- [**OneV's Den**](https://onevcat.com/#blog)：大家尊称为喵神的博客。对 Swift 技术在国内的推广做了很大的贡献。
+- [**pucker：**](https://blog.csdn.net/pucker)他关于利用Autolayout界面自动布局系列的文章写的不错
+- [**OneV's Den**](https://onevcat.com/#blog)：大家尊称为喵神。对 Swift 技术在国内的推广做了很大的贡献。
 - [**Limboy’s HQ：**](https://casatwy.com/)李忠关于 RAC 、组件化的文章流传很广。博客中对架构、编程的思考都很精髓。听说现在转管理后不太更新技术文了。
-- [**bang’s blog：**](https://blog.cnbang.net/)JSPatch 作者 bang 的博客。稳定更新，每篇文章质量都很高。
-- [**Draveness’s Blog：**](https://draveness.me/index)被人称为灯塔的 Draveness 的博客。Draveness 涉猎很广，文章也很有深度，一半以上的文章我连标题都看不懂。
-- [**Halfrost-Field：**](https://halfrost.com/)人称“霜神”冰霜的博客，冰霜的文章针对某个问题总是能有深入、全面的剖析。
-- [**星光社：**](https://ming1016.github.io/)滴滴技术专家戴铭的博客，每篇都是精品。
-- [**玉令天下：**](https://yulingtianxia.com/)腾讯杨萧玉的博客，底层细节能深入到汇编的实现，令人惊叹。
-- [**Bestswifter：**](https://juejin.cn/user/1398234518402504/posts)张星宇的博客，《让 BAT 的 offer 不再难拿》介绍了他在大学时准备面试最后进入百度的经历，这篇文章也引起了不小的积极反响。
+- [**bang’s blog：**](https://blog.cnbang.net/)JSPatch 作者 bang 。稳定更新，每篇文章质量都很高。
+- [**Draveness’s Blog：**](https://draveness.me/index)被人称为灯塔的 Draveness 。Draveness 涉猎很广，文章也很有深度，一半以上的文章我连标题都看不懂。
+- [**Halfrost-Field：**](https://halfrost.com/)人称“霜神”冰霜，冰霜的文章针对某个问题总是能有深入、全面的剖析。
+- [**星光社：**](https://ming1016.github.io/)滴滴技术专家戴铭，每篇都是精品。
+- [**玉令天下：**](https://yulingtianxia.com/)腾讯杨萧玉，底层细节能深入到汇编的实现，令人惊叹。
+- [**Bestswifter：**](https://juejin.cn/user/1398234518402504/posts)张星宇，《让 BAT 的 offer 不再难拿》介绍了他在大学时准备面试最后进入百度的经历，这篇文章也引起了不小的积极反响。
 - [**故胤道长：**](https://www.jianshu.com/u/8d5b91490ca5)顶级 iOS 开发者，曾就职于 Uber，现就职于美帝亚马逊。文风流畅，博客也会谈到不少中美编程文化的差异。
 - [**iOS程序猿：**](https://www.jianshu.com/u/96a14318a4de)CYLTabBarController 作者，博客也是篇篇经典。
-- [**sunnyxx：**](https://blog.sunnyxx.com/)滴滴技术专家孙源的博客，对于 OC 语言特性有深入研究。不过整个 17 年没有更新博客。
-- [**瓜地：**](https://www.desgard.com/)冬瓜的博客，作为曾经 acm‘er 的素质与修养，博客总是能够深入底层。
+- [**sunnyxx：**](https://blog.sunnyxx.com/)滴滴技术专家孙源，对于 OC 语言特性有深入研究。不过整个 17 年没有更新博客。
+- [**瓜地：**](https://www.desgard.com/)冬瓜，作为曾经 acm‘er 的素质与修养，博客总是能够深入底层。
 
 ## **前端：**
 
